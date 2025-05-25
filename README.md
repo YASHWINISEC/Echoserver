@@ -1,6 +1,8 @@
 # Echoserver
 Echo server and client using python socket
 
+## DATE: 22.02.2025
+
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
